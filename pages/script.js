@@ -19,7 +19,7 @@
   //экземпляры классов
   //api
   const api = new Api({
-    baseUrl: 'https://praktikum.tk/cohort11',
+    baseUrl: 'https://nomoreparties.co/cohort11',
     headers: {
       authorization: '20e46ea9-04bb-478c-80c8-fe605e519d0c',
       'Content-Type': 'application/json'
